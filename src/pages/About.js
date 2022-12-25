@@ -1,7 +1,5 @@
 import React from 'react'
 import styled from 'styled-components'
-import { FaReact, FaHtml5, FaCss3, FaNodeJs } from 'react-icons/fa'
-import { SiJavascript, SiExpress, SiFirebase, SiMongodb } from 'react-icons/si'
 import Skills from '../components/Skills'
 
 function About() {
